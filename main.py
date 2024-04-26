@@ -1,2 +1,8 @@
 if __name__ == "__main__":
-  print("Python Variables")
+  # What is a variable in Python
+
+  message = "Hello, World"
+  print(message)
+
+  message = "Good Bye!"
+  print(message)
