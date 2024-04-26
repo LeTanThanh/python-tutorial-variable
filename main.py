@@ -6,3 +6,12 @@ if __name__ == "__main__":
 
   message = "Good Bye!"
   print(message)
+
+  # Creating variables
+
+  """
+  variable_name = value
+  """
+
+  counter = 1
+  print(counter)
